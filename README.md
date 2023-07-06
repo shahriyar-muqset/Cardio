@@ -23,6 +23,7 @@ A demo of an app running on android platform that can store blood pressure and h
  </tr>
 </table>
 <br><br>
+UI video link : https://drive.google.com/drive/folders/13flbXaI7QkbeOT2Uj-jfNe4ksMNy7RdY
 
 ### <ins> **UML Diagram:** </ins>
 <br>
